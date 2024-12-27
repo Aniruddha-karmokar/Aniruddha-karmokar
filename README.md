@@ -48,6 +48,11 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Tech GIF">
 </p>
 
+<h3 align="left">Contribution Graph:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=aniruddha-karmokar&bg_color=ffffff&color=0e75b6&line=00b894&point=1abc9c&area=true" alt="GitHub Contribution Graph">
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddha-karmokar&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddha-karmokar&show_icons=true&locale=en" alt="GitHub Stats" /></p>
